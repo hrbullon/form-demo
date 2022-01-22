@@ -1,0 +1,130 @@
+[
+   {
+      "id": "1",
+      "titulo": "Seccion uno",
+      "descripcion": "seccion descripcion",
+      "posicion": "1",
+      "preguntas": [
+         {
+            "id": "1",
+            "pregunta": "Habilidades Funcionales y Técnicas  (Contribuidor Individual y Supervisorio)",
+            "tipo_respuesta": "cuadricula de casillas",
+            "respuestas": [
+               {
+                  "id": "1",
+                  "pregunta": 1,
+                  "respuesta": "Entiende las practicas, políticas y procedimientos operativos de la empresa",
+                  "valor": ""
+               },
+               {
+                  "id": "2",
+                  "pregunta": 1,
+                  "respuesta": "Posee el conocimiento técnico y funcional y las habilidades necesarias para realizar el trabajo",
+                  "valor": ""
+               },
+               {
+                  "id": "3",
+                  "pregunta": 1,
+                  "respuesta": "Se mantiene actualizado en desarrollos dentro de su especialidad",
+                  "valor": ""
+               }
+            ],
+            "respuestas_opciones": [
+               {
+                  "titulo": "SC",
+                  "valor": "1"
+               },
+               {
+                  "titulo": "SC",
+                  "valor": "3"
+               },
+               {
+                  "titulo": "PSC",
+                  "valor": "5"
+               }
+            ],
+            "respuestas_usuario": [
+               {
+                  "pregunta": "1",
+                  "respuesta": "1",
+                  "Valor": "1"
+               },
+               {
+                  "pregunta": "1",
+                  "respuesta": "2",
+                  "Valor": "3"
+               },
+               {
+                  "pregunta": "1",
+                  "respuesta": "3",
+                  "Valor": "5"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "id": "2",
+      "titulo": "Seccion dos",
+      "descripcion": "seccion descripcion",
+      "posicion": "1",
+      "preguntas": [
+         {
+            "id": "1",
+            "pregunta": "Aprendizaje al Vuelo (Contribuidor Individual y Supervisorio)",
+            "tipo_respuesta": "cuadricula de casillas",
+            "respuestas": [
+               {
+                  "id": "1",
+                  "pregunta": 1,
+                  "respuesta": "Aprende rápidamente cuando se enfrenta a situaciones nuevas",
+                  "valor": ""
+               },
+               {
+                  "id": "2",
+                  "pregunta": 1,
+                  "respuesta": "Acepta bien los cambios",
+                  "valor": ""
+               },
+               {
+                  "id": "3",
+                  "pregunta": 1,
+                  "respuesta": "Tiene iniciativa en su trabajo",
+                  "valor": ""
+               }
+            ],
+            "respuestas_opciones": [
+               {
+                  "titulo": "SC",
+                  "valor": "1"
+               },
+               {
+                  "titulo": "SC",
+                  "valor": "3"
+               },
+               {
+                  "titulo": "PSC",
+                  "valor": "5"
+               }
+            ],
+            "respuestas_usuario": [
+               {
+                  "pregunta": "1",
+                  "respuesta": "1",
+                  "Valor": "1"
+               },
+               {
+                  "pregunta": "1",
+                  "respuesta": "2",
+                  "Valor": "3"
+               },
+               {
+                  "pregunta": "1",
+                  "respuesta": "3",
+                  "Valor": "5"
+               }
+            ]
+         }
+      ]
+   }
+]
